@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "beeplus": {
+      "url": "https://app.beeplus.io/mcp",
+      "auth": {
+        "CLIENT_ID": "beeplus-mcp-cursor",
+        "scopes": ["api-public"]
+      }
+    }
+  }
+}
